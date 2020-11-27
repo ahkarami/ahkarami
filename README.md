@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [CafeBazaar](https://cafebazaar.ir/?l=en) as a _Senior Data Scientist_  
-- I have written a book entitled [**"Deep Dive into Different Types of Convolutions for Deep Learning"**](https://leanpub.com/convolutions-for-deep-learning), which can be a very useful book for deeplearning researchers.  
+- I have written a book entitled [**"Deep Dive into Different Types of Convolutions for Deep Learning"**](https://leanpub.com/convolutions-for-deep-learning), which can be a very useful book for deep learning researchers.  
 - 📫 How to reach me: [my Linkedin Profile](https://www.linkedin.com/in/amir-hossein-karami-b8690739/)  
 ![Karami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahkarami&show_icons=true&theme=radical)  
 
